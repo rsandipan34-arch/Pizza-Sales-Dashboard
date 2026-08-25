@@ -31,6 +31,10 @@ The key metrics and insights generated in Power BI were independently calculated
 
 This validation ensured that the calculated KPIs and visualizations in Power BI were consistent with the underlying dataset.
 
+
+## Dashboard Preview
+
+
 ## 📁 Project Structure
 
 ```text

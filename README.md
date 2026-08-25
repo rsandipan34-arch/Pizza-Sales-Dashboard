@@ -34,6 +34,8 @@ This validation ensured that the calculated KPIs and visualizations in Power BI 
 
 ## Dashboard Preview
 
+https://github.com/rsandipan34-arch/Pizza-Sales-Dashboard/blob/main/image.png
+
 
 ## 📁 Project Structure
 

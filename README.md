@@ -36,22 +36,13 @@ This validation ensured that the calculated KPIs and visualizations in Power BI 
 
 https://github.com/rsandipan34-arch/Pizza-Sales-Dashboard/blob/main/image.png
 
+## 🎯 Purpose
 
-## 📁 Project Structure
+The purpose of this project is to analyze pizza sales data using **SQL and Power BI**.
 
-```text
-Pizza-Sales-Analysis/
-│
-├── Dataset/
-│   └── pizza_sales.csv
-│
-├── SQL/
-│   └── pizza_sales_queries.sql
-│
-├── PowerBI/
-│   └── Pizza_Sales_Dashboard.pbix
-│
-├── Screenshots/
-│   └── dashboard.png
-│
-└── README.md
+- Analyze sales and revenue
+- Find top-selling pizzas
+- Identify sales trends
+- Compare different pizza categories and sizes
+- Create an interactive Power BI dashboard
+- Cross-check the Power BI results using SQL
